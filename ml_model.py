@@ -12,3 +12,5 @@ def model3():
     print('Adding code to model3')
 
 
+print('Model 2 is the best model')
+
